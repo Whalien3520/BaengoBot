@@ -3,3 +3,5 @@
 /JetBrainsMono-2.242/
 /JetBrainsMono-2.242.zip
 /src/main/resources/config.properties
+/build/
+/.gradle/
